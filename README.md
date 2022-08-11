@@ -1,16 +1,19 @@
-### Hi there 👋
+<details>
+    <summary>:zap: Github Stats</summary>
+    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=cruzelx&hide=stars&count_private=true&theme=radical&&show_icons=true" />
+</details>
 
-<!--
-**cruzelx/cruzelx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a professional backend developer who is attracted to elegant designs and architectures.
+- I have developed highly scalable products and services using NodeJs.
+- Currently learning to build webservices with GoLang.
+- Love building microservices.
+- Currently striving to get AWS Developer Associate Certificate.
+- My tech stack includes React, NodeJs, Apollo/GraphQL, Redis, MongoDB, TS and Docker
+- How to reach me: <a href="mailto:bhattarai.alex402@gmail.com" target="_blank">Email</a>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+    <summary>Most Used Languages</summary>
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cruzelx&theme=radical&hide=jupyter+notebook,html" />
+</details>
