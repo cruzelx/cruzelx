@@ -3,10 +3,9 @@
     <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=cruzelx&hide=stars&count_private=true&theme=radical&&show_icons=true" />
 </details>
 
-- I'm a professional backend developer who is attracted to elegant designs and architectures.
-- I have developed highly scalable products and services using NodeJs.
+- I'm a professional backend developer and a tinkerer.
+- I have been building scalable products using NodeJs. 
 - Currently learning to build webservices with GoLang.
-- Love building microservices.
 - Currently striving to get AWS Developer Associate Certificate.
 - My tech stack includes React, NodeJs, Apollo/GraphQL, Redis, MongoDB, TS and Docker
 - How to reach me: <a href="mailto:bhattarai.alex402@gmail.com" target="_blank">Email</a>
