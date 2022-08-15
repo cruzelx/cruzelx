@@ -1,9 +1,9 @@
 # 💫 About Me:
 
-- 🧑‍🔬 I'm a professional backend developer and a tinkerer.
-- 📈 Love to build scalable products and services using NodeJs. 
-- 🧑‍🎓 Currently learning GoLang, microservices and striving to get AWS Developer Associate Certificate.
-- 📩 How to reach me: <a href="mailto:bhattarai.alex402@gmail.com" target="_blank">Email</a>
+- 🧑‍🔬  I'm a professional backend developer and a tinkerer.
+- 📈  Love to build scalable products and services using NodeJs. 
+- 🧑‍🎓  Currently learning GoLang, microservices and striving to get AWS Developer Associate Certificate.
+- 📩  How to reach me: <a href="mailto:bhattarai.alex402@gmail.com" target="_blank">Email</a>
 
 
 ## 🌐 Socials:
