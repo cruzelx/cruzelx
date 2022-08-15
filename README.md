@@ -7,7 +7,7 @@
 - Love to build scalable products and services using NodeJs. 
 - Currently learning GoLang and striving to get AWS Developer Associate Certificate.
 - Learning microservices.
-- My tech stack includes React, NodeJs, Apollo/GraphQL, Redis, MongoDB, TS and Docker
+- My tech stack includes React, NodeJs, Apollo/GraphQL, Redis, MongoDB, TS, Nginx and Docker
 - How to reach me: <a href="mailto:bhattarai.alex402@gmail.com" target="_blank">Email</a>
 
 ---
